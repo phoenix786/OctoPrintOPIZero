@@ -44,7 +44,7 @@ sudo usermod -a -G dialout octopi
 ~/OctoPrint/venv/bin/octoprint serve
 ```
 
-10. Now if you type in a web browser <octoprintIP>:5000 (where <octoprintIP> is Orange Pi IP address)
+10. Now if you type in a web browser octoprintIP:5000 (where 'octoprintIP' is Orange Pi IP address)
 
 
 
