@@ -1,6 +1,7 @@
-Note: the following procedures are what worked for my setup, taken advantage of these two toutorials. 
+Note: the following procedures are what worked for my setup, taken advantage of these toutorials. 
 https://community.octoprint.org/t/setting-up-octoprint-on-a-raspberry-pi-running-raspbian-or-raspberry-pi-os/2337
-https://sudomod.com/forum/viewtopic.php?t=10262
+https://daumemo.com/installing-octoprint-on-orangepi-zero-part-1/
+https://daumemo.com/orangepi-zero-power-reset-pushbuttons-and-a-3d-printed-case-part-2/
 
 # OctoPrintOPIZero
 Install OctoPrint on Orange Pi Zero
